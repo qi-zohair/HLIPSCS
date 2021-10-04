@@ -1,4 +1,4 @@
-# Title: HLIPSCS: A Rapid and Efficient Algorithm for Image Contrast Enhancement
+# HLIPSCS: A Rapid and Efficient Algorithm for Image Contrast Enhancement
 
 Please report bugs and/or send comments to Zohair Al-Ameen.
 Email: qizohair@uomosul.edu.iq
