@@ -1,8 +1,5 @@
 # Title: HLIPSCS: A Rapid and Efficient Algorithm for Image Contrast Enhancement
 
-Created by Zohair Al-Ameen.
-Department of Computer Science, College of Computer Science and Mathematics, University of Mosul, Mosul, Nineveh, Iraq
-
 Please report bugs and/or send comments to Zohair Al-Ameen.
 Email: qizohair@uomosul.edu.iq
 
